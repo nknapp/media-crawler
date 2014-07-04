@@ -1,0 +1,22 @@
+{
+  "author": "Nils Knappmeier",
+  "name": "gallery-crawler",
+  "description": "",
+  "version": "0.0.0",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.10.21"
+  },
+  "dependencies": {
+    "unravel": "0.0.2",
+    "yamljs": "^0.1.5",
+    "async": "^0.9.0",
+    "merge": "^1.1.3",
+    "request": "^2.36.0",
+    "mime": "^1.2.11"
+  }
+}

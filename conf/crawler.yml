@@ -1,0 +1,3 @@
+
+root: "./example"
+postUrl: "http://localhost:8888/default/file/bulk"
