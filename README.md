@@ -15,6 +15,9 @@ It must return a similar json with tags to be stored into each file (using "exif
 
 Usage
 -----
-npm install
-node src/main.js conf/crawler.yml
+    # Tested with Ubuntu 14.04
+    sudo apt-get install libimage-exiftool-perl
+
+    npm install
+    node src/main.js conf/crawler.yml
 
